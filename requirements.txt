@@ -1,0 +1,2 @@
+PyQt5 >= 5
+scapy_python3 >= 0.21
