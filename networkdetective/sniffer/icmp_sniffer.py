@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-from networkdetective.sniffer.global_sniffer import NetworkSniffer
+from sniffer.global_sniffer import NetworkSniffer
 
 from scapy.all import *
 from scapy.layers.inet import IP

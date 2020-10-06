@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import logging
+import scapy.all
 
 from PyQt5.QtCore import QThread, pyqtSignal
 

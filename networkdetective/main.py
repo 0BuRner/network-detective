@@ -5,7 +5,7 @@ import logging
 import sys
 import traceback
 
-from networkdetective.widgets.desktop_widget import DesktopWidget
+from widgets.desktop_widget import DesktopWidget
 
 from PyQt5.QtWidgets import QApplication
 

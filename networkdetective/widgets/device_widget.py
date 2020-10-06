@@ -3,9 +3,9 @@
 
 import re
 
-from networkdetective.device import *
-from networkdetective.utils import *
-from networkdetective.widgets.blinking_widget import BlinkingWidget
+from device import *
+from utils import *
+from widgets.blinking_widget import BlinkingWidget
 
 from PyQt5.QtWidgets import QLabel, QHBoxLayout
 from PyQt5.QtNetwork import QHostInfo

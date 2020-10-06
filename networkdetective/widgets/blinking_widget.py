@@ -5,7 +5,7 @@ from PyQt5 import QtCore
 from PyQt5.QtGui import QColor
 from PyQt5.QtWidgets import QWidget
 
-from networkdetective.utils import PyUtils
+from utils import PyUtils
 
 
 class BlinkingWidget(QWidget):

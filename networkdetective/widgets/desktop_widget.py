@@ -1,11 +1,11 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-from networkdetective.device import *
-from networkdetective.widgets.device_widget import DeviceWidget
-from networkdetective.sniffer.global_sniffer import NetworkSniffer
-from networkdetective.discovery.arp_discovery import ARPNetworkDiscovery
-from networkdetective.utils import *
+from device import *
+from widgets.device_widget import DeviceWidget
+from sniffer.global_sniffer import NetworkSniffer
+from discovery.arp_discovery import ARPNetworkDiscovery
+from utils import *
 
 from PyQt5 import QtCore
 from PyQt5.QtCore import pyqtSlot, QSize
